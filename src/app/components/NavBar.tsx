@@ -8,6 +8,8 @@ function NavBar() {
           </Link>
 
         </nav>
+
+        
     )
 }
 
